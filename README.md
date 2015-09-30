@@ -1,5 +1,6 @@
 
 # How To Create A Pull Request
+<p>Steps</p>
 
 ##Step 1 - Fork a repo
 ![Step1](imgs/step1.jpg)
